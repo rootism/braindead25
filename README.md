@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 
 4.Execute the analysis pipeline
-Open ```bash notebooks/braindead(IPL)(1).ipynb ``` and run all cells.
+Open ` notebooks/braindead(IPL)(1).ipynb ` and run all cells.
 
 
 
@@ -173,7 +173,7 @@ pip install -r requirements.txt
 
 
 4.Execute the summarization pipeline
-Open ```bash notebooks/summarization.ipynb ``` and run all cells.
+Open ` notebooks/summarization.ipynb ` and run all cells.
 
 
 
