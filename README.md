@@ -32,17 +32,6 @@ Objective : The goal is to analyze historical IPL data, extract key performance 
 
 
 
-**Folder Structure:**
-```bash
-/IPL-Winner-Prediction/
-│── data/                 # Raw & cleaned IPL datasets
-│── notebooks/            # Jupyter Notebooks for data analysis & ML modeling
-│── scripts/              # Python scripts for data preprocessing, training
-│── models/               # Trained ML models
-│── results/              # Outputs, visualizations, and performance metrics
-│── README.md             # Project documentation
-    
-```
 
 
 **Dataset:**
@@ -120,18 +109,7 @@ Objective : This project automates research paper summarization using NLP techni
 
 
 
-**Folder Structure:**
-```bash
-/Research-Article-Summarization/
-│── data/                 # Dataset of research papers
-│── notebooks/            # Jupyter notebooks for NLP experiments
-│── scripts/              # Python scripts for text preprocessing & model training
-│── models/               # Pre-trained summarization models
-│── results/              # Summaries & evaluation metrics
-│── README.md             # Project documentation
 
-
-```
 
 
 **Dataset:**
