@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 
 4.Execute the analysis pipeline
-Open ```bash notebooks/ipl_analysis.ipynb ``` and run all cells.
+Open ```bash notebooks/braindead(IPL)(1).ipynb ``` and run all cells.
 
 
 
