@@ -17,9 +17,14 @@ Objective : The goal is to analyze historical IPL data, extract key performance 
 
 
 Features
+
+
 ✔ Data cleaning and preprocessing of IPL datasets
+
 ✔ Player and team performance analysis using statistics
+
 ✔ Implementation of ML models for winner prediction
+
 ✔ Visualization of key trends in IPL history
 
 
@@ -77,6 +82,8 @@ Machine Learning Models Used
 
 
 Results & Insights:
+
+
 • Player Rankings: Identifies top-performing batsmen & bowlers
 
 • Match Outcome Predictions: Determines match-winning probabilities
