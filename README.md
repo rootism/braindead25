@@ -1,5 +1,9 @@
-# BRAINDEAD25
+# BRAINDEAD 2025: The Ultimate Data Analysis & Machine Learning Challenge
+
+
 ![image](https://github.com/user-attachments/assets/d355784f-c092-417b-830f-6894ed05dc50)
+
+
 
 ## IPL Data Analysis & Winner Prediction | Research Article Summarization
 
