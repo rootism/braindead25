@@ -41,8 +41,7 @@ Objective : The goal is to analyze historical IPL data, extract key performance 
 │── models/               # Trained ML models
 │── results/              # Outputs, visualizations, and performance metrics
 │── README.md             # Project documentation
-│── requirements.txt      # Dependencies list
-│── .gitignore            # Files to be ignored in Git
+    
 ```
 
 
@@ -89,8 +88,6 @@ Open ` notebooks/braindead(IPL)(1).ipynb ` and run all cells.
 
 • XGBoost – Boosted decision trees for accuracy
 
-• Neural Networks – Deep learning-based forecasting
-
 • Logistic Regression – Baseline model
 
 
@@ -132,8 +129,7 @@ Objective : This project automates research paper summarization using NLP techni
 │── models/               # Pre-trained summarization models
 │── results/              # Summaries & evaluation metrics
 │── README.md             # Project documentation
-│── requirements.txt      # Dependencies list
-│── .gitignore            # Files to be ignored in Git
+
 
 ```
 
@@ -158,26 +154,7 @@ Source:
 
 
 
-## Installation & Usage:
 
-1.Clone the repository
-
-```bash
-git clone https://github.com/rootism/braindead25.git
-cd braindead25
-```
-
-2.Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-3.Run the Jupyter Notebook
-
-
-4.Execute the summarization pipeline
-Open ` notebooks/Research_Article_Summarization.ipynb ` and run all cells.
 
 
 
@@ -196,7 +173,7 @@ Open ` notebooks/Research_Article_Summarization.ipynb ` and run all cells.
 ## Results & Insights:
 
 
-• High-Quality Summaries: 80%+ accuracy in retaining key research insights
+• Good-Quality Summaries: accuracy in retaining key research insights
 
 • Comparison of NLP Models: Identifies the best summarization method
 
