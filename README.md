@@ -173,7 +173,7 @@ pip install -r requirements.txt
 
 
 4.Execute the summarization pipeline
-Open ` notebooks/summarization.ipynb ` and run all cells.
+Open ` notebooks/Research_Article_Summarization.ipynb ` and run all cells.
 
 
 
